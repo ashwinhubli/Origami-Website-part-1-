@@ -1,0 +1,29 @@
+h1 {
+  color: aqua;
+  text-align: center;  
+}
+h2{
+    color: rgba(127, 255, 212, 0.733);
+}
+body {
+   background-repeat: repeat-y; 
+   background-size: 100%;
+  
+}
+
+p {
+  color: aqua;
+}
+
+a{
+   color: brown; 
+}
+a:hover{
+    background-color: aquamarine;
+}
+p{
+    color: aquamarine
+    ;
+}
+
+
